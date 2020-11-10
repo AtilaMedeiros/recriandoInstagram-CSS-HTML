@@ -18,7 +18,7 @@
 
 ## 🔖&nbsp; Sobre
 
-Site desenvolvido com objetivo de por em prática o conhecimento adquirido no curso "Recriando a página inicial do Instagram" da Digital Innovation One, ministrado pela professora Gabriela Pinheiro. Alterei o projeto original do curso para fazer um novo layout com a temática do yoda.
+Site desenvolvido com objetivo de pôr em prática o conhecimento adquirido em CSS e HTML no curso "Recriando a página inicial do Instagram" da Digital Innovation One, ministrado pela professora Gabriela Pinheiro. Alterei o projeto original do curso para fazer um novo layout com a temática do Yoda bem como implementei funcionalidade para realçar os botões, quando passamos o mouse sobre eles.
 
 
 

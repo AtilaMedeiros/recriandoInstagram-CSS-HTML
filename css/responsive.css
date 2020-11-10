@@ -1,0 +1,27 @@
+@media (max-width: 1024px) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
+
+@media (max-width: 650px) { /* quando for menor que 650px*/
+    body {
+        background-color: #ffffff;
+    }
+
+    .instagram-wrapper {   /*defina container principal com largura de 90% do body*/
+        width: 90%;
+    }
+
+    .instagram-phone {  /* oculta o container instagram-phone*/
+        display: none;
+    }
+
+    .instagram-continue { /*define a largura do container instagram-continue para ocupar todo espaço*/
+        width: 100%;
+    }
+    
+    .group {
+        border: 1px solid transparent;
+    }
+}

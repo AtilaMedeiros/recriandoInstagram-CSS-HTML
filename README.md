@@ -1,11 +1,11 @@
 
 
 ---
-# Site Clone Netflix
+# Site Clone Instagram
 ---
 
 <h1>
-    <img src="https://github.com/AtilaMedeiros/recriandoNetflix-css-html-JavaScript/blob/main/img/video.gif">
+    <img src="https://github.com/AtilaMedeiros/recriandoInstagram-CSS-HTML/blob/main/img/Instagram.gif">
 </h1>
 
 
